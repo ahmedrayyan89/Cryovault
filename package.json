@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "caniuse-lite": "^1.0.30001788",
     "eslint": "^9",
     "eslint-config-next": "16.2.2",
     "tailwindcss": "^4"
